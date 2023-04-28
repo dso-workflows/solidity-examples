@@ -9,4 +9,5 @@ solidityPipeline {
   mythril = 'latest'
   slither = '0.8.9'
   solgraph = 'latest'
+  codeDxProjectId = '4'
 }
