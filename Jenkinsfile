@@ -7,7 +7,7 @@ def pipelineParams
 
 solidityPipeline {
   mythril = 'latest'
-  slither = '0.8.9'
+  slither = '0.4.26'
   solgraph = 'latest'
-  codeDxProjectId = '4'
+  codeDxProjectId = '6'
 }
