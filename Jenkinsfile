@@ -6,9 +6,8 @@ import org.apache.commons.io.FileUtils
 def pipelineParams
 
 solidityPipeline {
-  solc = '0.5.0'
 //  mythril = 'latest'
-//  slither = '0.4.26'
+//  slither = 'latest'
 //  solgraph = 'latest'
 //  codeDxProjectId = '6'
 }
